@@ -30,11 +30,7 @@ gcloud components install kubectl;
 #Git
 apt-get install git -y;
 git status;
-git clone https://github.com/coskunbalta/project-pitandolive.git;
-git clone https://github.com/llarsson/gke-cluster-terraform.git;
-cd gke-cluster-terraform/;
 git remote -v;
-cd ../;
 
 
 
