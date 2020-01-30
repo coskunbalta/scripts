@@ -2,8 +2,6 @@
 #dev server tools build script - linux - debian/ubuntu
 #region london
 
-#web gke-cluster-terraform # history
-
 
 apt-get update;
 apt-get upgrade;
